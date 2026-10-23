@@ -63,7 +63,7 @@
     "astro": ">=4.0.0"
   },
   "devDependencies": {
-    "astro": "^5.7.0",
+    "astro": "^7.3.3",
     "eslint": "^9.0.0",
     "tsup": "^8.4.0",
     "typescript": "^5.7.0",
